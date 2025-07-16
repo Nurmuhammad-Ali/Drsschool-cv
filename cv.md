@@ -43,3 +43,8 @@ function makeNegative(num) {
 
 - Telegram: @nurali
 - Email: ali@example.com
+
+## Hobbies
+- BJJ
+- Coding
+- Reading
