@@ -30,7 +30,7 @@ Beginner frontend developer. Motivated to learn and grow in IT. Responsible, foc
 
 ## Code Example
 
-**Task from Codewars:** [My Codewars Profile](https://www.codewars.com/users/Nurmuhammad-Ali)
+**Task from Codewars:** [My Codewars Profile](https://www.codewars.com/users/nurmuhammad-ali)
 
 ```js
 // Codewars Kata: Return Negative
@@ -45,6 +45,7 @@ function makeNegative(num) {
 - Email: ali@example.com
 
 ## Hobbies
+
 - BJJ
 - Coding
 - Reading
